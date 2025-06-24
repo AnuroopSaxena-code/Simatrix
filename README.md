@@ -11,11 +11,6 @@ The goal is to start from a core world design consisting of grids with cells of 
 ## Day 2:
 - Player and enemy agents created 
 
-
-## Compile:
-g++ main.cpp -o game
-./game 
-
 # Built With
 - C++ 17
 - STL
