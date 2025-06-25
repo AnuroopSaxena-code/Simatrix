@@ -1,5 +1,5 @@
 # Simatrix
-A grid-based simulation engine for AI agents in C++.
+[WIP] A grid-based simulation engine for AI agents in C++.
 
 The goal is to start from a core world design consisting of grids with cells of different types, then expand into agent behaviour, rule-based AI, and finally simulation mechanics. 
 
